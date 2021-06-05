@@ -15,7 +15,7 @@
   <h1>POKEDEX</h1>
   <!--<div class="w3-card">
   <p>w3-card</p>
- 
+ --
   
 </div>
 !-->
