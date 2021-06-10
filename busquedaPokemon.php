@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>BusquedaPokemon</title> 
-
+   
 </head>
 <body>
 
