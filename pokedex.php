@@ -7,7 +7,7 @@
 <body>
 <!--<footer id='footer'>
 <div class='w3-container w3-dark'>
-<h1>pokedex</h1>
+<h1>pokedex</h1>    
 </div>
 !-->
 
