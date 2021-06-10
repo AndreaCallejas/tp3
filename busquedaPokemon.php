@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title>BusquedaPokemon</title>
+	<title>BusquedaPokemon</title> 
 
 </head>
 <body>
