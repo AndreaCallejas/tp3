@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Pokedex22</h1>
+<h1>Pokedex33</h1>
 <form action="pokedex.php" method="GET">
 Escriba un pokemon:<input type="text" name="whoisthatpokemon">
 <input type ="submit" value="buscar">
